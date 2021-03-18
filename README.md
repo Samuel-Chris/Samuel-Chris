@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm samuel. I'm a fullstack web developer pasionate about learning new things, building accessible open-source projects and creating tech to elevate people.
+Hello, I'm Samuel. I'm a fullstack web developer pasionate about learning new things, building accessible open-source projects and creating tech to elevate people.
 
 <!--
 **Samuel-Chris/Samuel-Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
